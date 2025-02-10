@@ -90,6 +90,7 @@ Here's an overview of the folder structure:
 └── package.json
 ```
 
+## 📬 Contact
  --- feel free to reach me out on LinkendIn 'https://www.linkedin.com/in/anu-ramesh-21ba501b8/'
  
  
